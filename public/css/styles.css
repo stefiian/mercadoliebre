@@ -197,6 +197,10 @@ footer{
     background-color: #0022AA;
 }
 
+.fa-credit-card:hover, .fa-gift:hover, .fa-user-shield:hover{
+    color: #39b54a;
+}
+
 
 @media (min-width: 361px){
     .detalles, .imagen{
